@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+cinplaAnalysis/icsd.py
+cinplaAnalysis/utils.py
+cinplaAnalysis.egg-info/PKG-INFO
+cinplaAnalysis.egg-info/SOURCES.txt
+cinplaAnalysis.egg-info/dependency_links.txt
+cinplaAnalysis.egg-info/requires.txt
+cinplaAnalysis.egg-info/top_level.txt
