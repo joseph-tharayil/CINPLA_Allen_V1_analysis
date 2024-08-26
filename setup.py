@@ -11,7 +11,7 @@ setup(
     packages=['cinplaAnalysis'],
     install_requires=[
     'aiohttp',
-    'allensdk @ git+://github.com/joseph-tharayil/AllenSDK',
+    'allensdk @ git+https://github.com/joseph-tharayil/AllenSDK',
     'appnope',
     'argon2-cffi',
     'argon2-cffi-bindings',
