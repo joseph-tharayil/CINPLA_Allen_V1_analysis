@@ -78,7 +78,7 @@ setup(
     'numexpr',
     'numpy',
     'packaging',
-    'pandas',
+    'pandas>2.0',
     'pandocfilters',
     'parso',
     'patsy',
