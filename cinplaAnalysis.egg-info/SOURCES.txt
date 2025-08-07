@@ -1,6 +1,6 @@
 LICENSE
 README.md
-setup.py
+pyproject.toml
 cinplaAnalysis/icsd.py
 cinplaAnalysis/utils.py
 cinplaAnalysis.egg-info/PKG-INFO

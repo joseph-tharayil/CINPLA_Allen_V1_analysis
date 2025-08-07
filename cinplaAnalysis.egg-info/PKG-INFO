@@ -1,12 +1,12 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: cinplaAnalysis
 Version: 0.0.2
-Home-page: https://github.com/tharayil/CINPLA_Allen_V1_analysis
 Author: alteer
 License: NONE
+Requires-Python: <3.10,>=3.9
 License-File: LICENSE
 Requires-Dist: aiohttp
-Requires-Dist: allensdk>=2.16
+Requires-Dist: allensdk@ git+https://github.com/joseph-tharayil/AllenSDK
 Requires-Dist: appnope
 Requires-Dist: argon2-cffi
 Requires-Dist: argon2-cffi-bindings
@@ -73,7 +73,7 @@ Requires-Dist: notebook
 Requires-Dist: numexpr
 Requires-Dist: numpy
 Requires-Dist: packaging
-Requires-Dist: pandas
+Requires-Dist: pandas>2.0
 Requires-Dist: pandocfilters
 Requires-Dist: parso
 Requires-Dist: patsy
@@ -84,7 +84,7 @@ Requires-Dist: POT
 Requires-Dist: prometheus-client
 Requires-Dist: prompt-toolkit
 Requires-Dist: psutil
-Requires-Dist: psycopg2-binary
+Requires-Dist: psycopg2-binary==2.9.3
 Requires-Dist: ptyprocess
 Requires-Dist: pycparser
 Requires-Dist: Pygments
@@ -134,6 +134,6 @@ Requires-Dist: widgetsnbextension
 Requires-Dist: xarray
 Requires-Dist: yarl
 Requires-Dist: zipp
-Requires-Dist: jupyter
 Requires-Dist: quantities
 Requires-Dist: neo
+Dynamic: license-file
