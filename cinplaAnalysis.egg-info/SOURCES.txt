@@ -1,6 +1,7 @@
 LICENSE
 README.md
 pyproject.toml
+cinplaAnalysis/__init__.py
 cinplaAnalysis/icsd.py
 cinplaAnalysis/utils.py
 cinplaAnalysis.egg-info/PKG-INFO
