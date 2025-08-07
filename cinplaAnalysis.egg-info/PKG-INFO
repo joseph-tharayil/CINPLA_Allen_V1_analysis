@@ -3,7 +3,6 @@ Name: cinplaAnalysis
 Version: 0.0.2
 Author: alteer
 License: NONE
-Requires-Python: <3.10,>=3.9
 License-File: LICENSE
 Requires-Dist: numpy
 Requires-Dist: scipy
